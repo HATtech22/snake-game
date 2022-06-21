@@ -1,0 +1,16 @@
+#snakeboard {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+  }
+
+  #score {
+    /* text-align: center; */
+    font-size: 50px;
+    color: #608426
+  }
+
+  #score-div{
+    font-size: 50px; 
+  }
